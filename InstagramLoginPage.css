@@ -1,0 +1,88 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+body {
+    background-color: #FAFAFA;
+}
+#login {
+    margin: auto;
+    margin-top: 60px;
+    padding-top: 50px;
+    text-align: center;
+    width: 350px;
+    height: 370px;
+    background-color: #FFFFFF;
+    border: 1px solid #dbdbdb;
+}
+    input {
+        all: unset;
+        border: 1px solid #dbdbdb;
+        font-size: 0.8em;
+        text-align: left;
+        padding: 6px;
+    }
+    #usuario {
+        width: 240px;
+        margin-top: 40px;
+        margin-bottom: 5px;    
+    }
+    #senha {
+        width: 240px;
+        margin-bottom: 15px;
+        margin-right: -65px;
+        margin-left: -9px;
+    }
+    #mostrarocultar {
+        all: unset;
+        padding-right: 0px;   
+        font-size: 0.9em;
+        font-weight: 500;
+    }
+    div > a {
+        background-color: #0095F6;
+        text-decoration: none;
+        padding: 3px 104px 5px 104px;
+        margin-top: 10px;
+        border-radius: 3px;
+        color: #ffffff;
+        font-weight: 500;
+    }
+    #Ou {
+       padding: 20px 15px 20px 15px;
+       font-size: 0.84em;
+       color: #a5a5a5;
+       background-color: #FFFFFF;
+       margin-bottom: -28px;
+    }
+    #Ou-traço1 {
+        width: 50px;
+        height: 1px;
+        padding-left: 50px;
+        margin-left: 50px;
+        background-color: #dbdbdb;
+    }
+    #Ou-traço2 {
+        width: 100px;
+        height: 1px;
+        margin-left: 200px;
+        margin-top: -1px;
+        background-color: #dbdbdb;
+    }
+    #entrarfb {
+        margin: auto;
+        padding-top: 30px;
+    }
+    #txtfb {
+        color: #17378f;
+        padding-bottom: 4px;
+        text-decoration: none;
+        font-weight: 400;
+    }
+    #txtfb > a {
+        text-decoration: none;
+        color: inherit
+    }
+    #Esqueceu {
+        color: #0f2972;
+
+    }
